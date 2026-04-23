@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://https://brushjjaemu2.github.io/sitemap.xml
+Sitemap: https://brushjjaemu2.github.io/sitemap.xml
